@@ -1,5 +1,5 @@
 # art[README_SJL_CREATIONS_final.md](https://github.com/user-attachments/files/23251121/README_SJL_CREATIONS_final.md)
-# 🌌 SJL_CREATIONS — Creative Design House Landing Page
+# 🌌 SJL_CREATIONS — Landing Page
 
 [![Deploy to GitHub Pages](https://img.shields.io/badge/Deploy-GitHub_Pages-9b5cff?logo=github)](https://github.com/settings/pages)
 [![View Live Demo](https://img.shields.io/badge/Live-Demo-blueviolet?logo=github)](https://<your-username>.github.io/sjl-creations-landing/)
